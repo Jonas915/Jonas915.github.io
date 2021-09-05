@@ -1,0 +1,68 @@
+{
+    "subjects": [
+        {
+            "headline": "Fächer",
+            "isTitle": true,
+            "texts": [
+                "In der Schule wird dir ganz viel beigebracht werden. Die Fächer bringen dir Sachen zu bestimmten Themen bei.",
+                "Bestimmt findest du hier auch ein Fach, das dich besonders interessiert. "
+            ]
+        },
+        {
+            "headline": "Deutsch",
+            "isTitle": true,
+            "texts": [
+                "Im Deutschunterricht lernt man Buchstaben kennen. Solche Buchstaben hast du vielleicht schon mal in einem Buch gesehen. In der ersten Klasse lernst du, wie man Buchstaben schreibt und liest."
+            ],
+            "videoSource": "../videos/faecher/deutsch.mp4"
+        },
+        {
+            "headline": "Mathe",
+            "isTitle": true,
+            "texts": [
+                "Im Matheunterricht lernt man Zahlen  kennen. Zahlen kennst du vielleicht schon von Geld. In der ersten Klasse lernst du zählen, Zahlen schreiben und rechnen. Das macht Spaß!"
+            ],
+            "videoSource": "../videos/faecher/mathe.mp4"
+        },
+        {
+            "headline": "Sachkunde",
+            "isTitle": true,
+            "texts": [
+                "Im Sachkundeunterricht lernt man ganz verschiedene Sachen kennen. Zum Beispiel die Jahreszeiten, wie man den Müll trennt oder etwas über Tiere."
+            ],
+            "videoSource": "../videos/faecher/sachkunde.mp4"
+        },
+        {
+            "headline": "Sport",
+            "isTitle": true,
+            "texts": [
+                "Im Sportunterricht spielt man Spiele. Bei den Spielen muss man sich viel bewegen. Man spielt z.B. Fangen oder verschiedene Ballspiele. Aber auch klettern oder turnen kann man."
+            ],
+            "videoSource": "../videos/faecher/sport.mp4"
+        },
+        {
+            "headline": "Religion",
+            "isTitle": true,
+            "texts": [
+                "In Religion lernt man was über Feiertage, also warum Menschen auf der ganzen Welt z.B. Weihnachten oder Ostern feiern. Außerdem lernst du ganz verschiedene Religionen kennen."
+            ],
+            "videoSource": "../videos/faecher/religion.mp4"
+        },
+        {
+            "headline": "Kunst",
+            "isTitle": false,
+            "texts": [
+                "Im Kunstunterricht bastelt man mit Papier, Schere und Kleber. Man kann aber auch mit Stiften oder Pinseln Bilder malen."
+            ],
+            "videoSource": "../videos/faecher/kunst.mp4"
+        },
+        {
+            "headline": "Musik",
+            "isTitle": true,
+            "texts": [
+                "Im Musikunterricht lernt man verschiedene Musikinstrumente kennen. Und man lernt sogar, wie man diese Instrumente spielen kann. Außerdem singt  man zusammen schöne Lieder."
+            ],
+            "videoSource": "../videos/faecher/musik.mp4"
+        }
+    ]
+}

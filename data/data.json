@@ -1,0 +1,66 @@
+{
+    "rooms": [
+        {
+            "headline": "Räume",
+            "isTitle": true,
+            "imageSources": [
+                "images/rooms/main-bg.jpg",
+                "images/rooms/shelf.png"
+            ],
+            "texts": [
+                "In einer Schule gibt es unterschiedliche Räume"
+            ],
+            "soundSources": [
+                "../sounds/rooms1.mp3",
+                "../sounds/rooms2.mp3"
+            ]
+        },
+        {
+            "headline": "Klassenzimmer",
+            "isTitle": false,
+            "imageSources": [
+                "images/rooms/classroom-bg.jpg",
+                "images/rooms/shelf.png"
+            ],
+            "texts": [
+                "Im Klassenzimmer wirst du viel lernen"
+            ],
+            "soundSources": [
+                "../sounds/classroom1.mp3",
+                "../sounds/classroom2.mp3"
+            ]
+        }
+    ],
+    "people": [
+        {
+            "headline": "Personen",
+            "isTitle": true,
+            "imageSources": [
+                "images/people/main-bg.jpg",
+                "images/rooms/shelf.png"
+            ],
+            "texts": [
+                "In einer Schule gibt es unterschiedliche Räume"
+            ],
+            "soundSources": [
+                "../sounds/rooms1.mp3",
+                "../sounds/rooms2.mp3"
+            ]
+        },
+        {
+            "headline": "Klassenzimmer",
+            "isTitle": true,
+            "imageSources": [
+                "images/rooms/classroom-bg.jpg",
+                "images/rooms/shelf.png"
+            ],
+            "texts": [
+                "Im Klassenzimmer wirst du viel lernen"
+            ],
+            "soundSources": [
+                "../sounds/classroom1.mp3",
+                "../sounds/classroom2.mp3"
+            ]
+        }
+    ]
+}

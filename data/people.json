@@ -1,0 +1,56 @@
+{
+    "people": [
+        {
+            "headline": "Personen",
+            "isTitle": true,
+            "texts": [
+                "In der Schule passt immer jemand auf dich auf. Vor allem die Lehrer wollen, dass es dir gut geht.",
+                "Es gibt aber noch viele andere Menschen in der Schule. Viele sind älter als du, weil sie dort arbeiten oder schon in einer höheren Klassenstufe sind."
+            ]
+        },
+        {
+            "headline": "Mitschüler",
+            "isTitle": true,
+            "texts": [
+                "Wer natürlich auch an der Schule ist, sind dein Mitschüler. Das sind die anderen Kinder, die auch mit dir eingeschult und dann mit dir zusammen die Schulzeit verbringen werden. Zusammen werdet ihr viel lernen und eine Menge Spaß haben.",
+                "Bestimmt kennst du schon viele aus dem Kindergarten und auch wenn du noch keinen kennen solltest, wirst du hier schnell neue Freundschaften schließen.",
+                "Deine Mitschüler siehst du dann jeden Tag in der Schule in deiner Klasse. Im Unterricht werdet ihr zusammen lernen und in den Pausen oder der Hausaufgabenbetreuung könnt ihr miteinander reden und spielen."
+            ],
+            "videoSource": "../videos/personen/mitschueler.mp4"
+        },
+        {
+            "headline": "Lehrer",
+            "isTitle": false,
+            "texts": [
+                "Der Lehrer ist sowas ähnliches wie dein Betreuer im Kindergarten. Er wird dich mit viel Freude durch deinen Schulalltag begleiten.",
+                "Jede Klasse in der Schule hat seinen eigenen Lehrer. Dieser wird dir viele Dinge wie Lesen, Schreiben und Rechnen beibringen.",
+                "Der Lehrer ist auch deine Vertrauensperson. Wenn du mal Schwierigkeiten haben solltest, kannst du dich immer an deinen Lehrer wenden."
+            ],
+            "videoSource": "../videos/personen/lehrer.mp4"
+        },
+        {
+            "headline": "Schuldirektor",
+            "isTitle": true,
+            "texts": [
+                "Der Schuldirektor ist sowas wie der Chef der Grundschule. Er sorgt dafür, dass in der Schule alles reibungslos funktioniert und du ohne Sorgen lernen und Spaß haben kannst."
+            ],
+            "videoSource": "../videos/personen/direktor.mp4"
+        },
+        {
+            "headline": "Hausmeister",
+            "isTitle": true,
+            "texts": [
+                "Dem Hausmeister wirst du in der Schule wahrscheinlich nur ab und zu mal auf dem Gang begegnen. Er ist dafür zuständig, dass die Schule sauber bleibt und alles, was mal kaputt gehen sollte, repariert wird."
+            ],
+            "videoSource": "../videos/personen/hausmeister.mp4"
+        },
+        {
+            "headline": "Mensa-Personal",
+            "isTitle": true,
+            "texts": [
+                "Die netten Frauen aus der Mensa versorgen dich jeden Mittag mit leckerem und warmem Essen. Wenn du mal nichts von Zuhause dabei haben solltest, kannst du hier gerne etwas zu Essen holen."
+            ],
+            "videoSource": "../videos/personen/mensapersonal.mp4"
+        }
+    ]
+}

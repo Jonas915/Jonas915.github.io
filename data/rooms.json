@@ -1,0 +1,75 @@
+{
+    "rooms": [
+        {
+            "headline": "Räume",
+            "isTitle": true,
+            "texts": [
+                "Die Schule ist ein ziemlich großes Gebäude. Du brauchst aber keine Angst haben, denn hier findest du viele verschiedene Räume.",
+                "Je länger du in der Schule bist, desto mehr Räume wirst du selber kennen lernen und erkunden können - wie aufregend!"
+            ]
+        },
+        {
+            "headline": "Klassenzimmer",
+            "isTitle": true,
+            "texts": [
+                "Im Klassenzimmer findet der Unterricht statt. Du und deine Klassenkameraden haben hier einen eigenen Sitzplatz, an dem ihr arbeiten könnt.",
+                "Nicht alle Fächer werden hier drin unterrichtet. Für manche Fächer musst du das Zimmer wechseln."
+            ],
+            "videoSource": "../videos/raeume/klassenzimmer.mp4"
+        },
+        {
+            "headline": "Turnhalle",
+            "isTitle": false,
+            "texts": [
+                "In der Sporthalle findet der Sportunterricht statt. Hier könnt ihr euch ganz viel bewegen.",
+                "Hier gibt es auch viele Sachen zum Spielen, wie Völkerball, Federball oder Seile."
+            ],
+            "videoSource": "../videos/raeume/turnhalle.mp4"
+        },
+        {
+            "headline": "Musikraum",
+            "isTitle": true,
+            "texts": [
+                "Im Musikraum gibt es ganz viele Instrumente, die du alle im Musikunterricht ausprobieren darfst.",
+                "Mit solchen Instrumenten muss man immer vorsichtig umgehen!"
+            ],
+            "videoSource": "../videos/raeume/musikraum.mp4"
+        },
+        {
+            "headline": "Mensa",
+            "isTitle": true,
+            "texts": [
+                "In der Mittagspause kannst du hier essen gehen. Du bekommst von den freundlichen Erwachsenen hinter der Essensausgabe dein Essen.",
+                "Dann kannst du dir einen Sitzplatz aussuchen. Setz dich am Besten zu anderen Kindern. Die wollen bestimmt gerne mit dir essen."
+            ],
+            "videoSource": "../videos/raeume/mensa.mp4"
+        },
+        {
+            "headline": "Schulhof",
+            "isTitle": true,
+            "texts": [
+                "Hier kannst du in der großen Pause mit deinen Freunden spielen. Auf dem Schulhof gibt es viel Platz und viel zu erkunden.",
+                "Die Lehrer passen während der Pause auf dich auf und geben dir auch manchmal etwas zum Spielen. Du solltest mal versucht auf einem Pedalo durch den Schulhof zu fahren!"
+            ],
+            "videoSource": "../videos/raeume/schulhof.mp4"
+        },
+        {
+            "headline": "Toiletten",
+            "isTitle": true,
+            "texts": [
+                "In der Schule gibt es auch einen stillen Ort, an dem du dich erleichtern kannst, wenn du mal musst.",
+                "Wenn du im Unterricht merkst, dass du dringend musst, dann melde dich und frag zuerst den Lehrer bevor du aufstehst. Am besten ist es aber in der Pause auf die Toilette zu gehen."
+            ],
+            "videoSource": "../videos/raeume/toiletten.mp4"
+        },
+        {
+            "headline": "Malraum",
+            "isTitle": true,
+            "texts": [
+                "Im Malraum gibt es ganz bunte Farben und viele Pinsel. Hier kannst du so viel malen, wie du willst, aber nur auf Papier.",
+                "Es macht ganz viel Spaß sich selbst mit seinen Freunden zu malen und anderen zu zeigen, was man gemalt hat."
+            ],
+            "videoSource": "../videos/raeume/malraum.mp4"
+        }
+    ]
+}
